@@ -35,14 +35,14 @@ IntervalInMinutes_ViewX: Interval in minutes between export operations.
 Separator_ViewX: Separator character used in the exported CSV file.
 FilePrefix_ViewX: Prefix added to the exported file name.
 FinishStatus_ViewX: Status value used to update the exported database record.
-## Mail Configuration
+### Mail Configuration
 The mail configuration includes the following settings:
 
 SMTPServer: SMTP server address for sending emails.
 SMTPServerPort: SMTP server port.
 FromMailAddress: Email address used as the sender.
 FromMailAddressPassword: Password for the sender's email account.
-## Import Configuration
+### Import Configuration
 The configuration for each import includes the following settings:
 
 Do_ImportX: Specifies whether the import is enabled.
